@@ -1,0 +1,19 @@
+[project]
+name = "research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fpdf2>=2.8.5",
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.5.2",
+    "natsort>=8.4.0",
+    "pypdf>=6.6.0",
+    "pywin32>=311",
+    "raffalib",
+    "tqdm>=4.67.1",
+]
+
+[tool.uv.sources]
+raffalib = { path = "C:/data/progetti_miei/raffalib/python", editable = true }
