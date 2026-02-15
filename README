@@ -5,6 +5,8 @@ This is a Jupyter notebook that, given a folder of `.docx` files, merge them int
 
 The resulting file has bookmarks (one for each input docx file), and can have an overlay with (1) page numbers (2) text (e.g. "Working papers - please do not cite") (3) date of creation.
 
+Useful to put together an academic paper from multiple docx (title page, paper, tables, figures).
+
 ## Usage
 
 In the folder of docx files, create a JSON file following this template:
