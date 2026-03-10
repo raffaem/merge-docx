@@ -16,4 +16,4 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-raffalib = { path = "C:/data/progetti_miei/raffalib/python", editable = true }
+raffalib = { path = "C:/data/progetti_miei/raffalib-python", editable = true }
